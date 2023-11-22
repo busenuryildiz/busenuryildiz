@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47e6hrch8yhtetkesx0docyhvxisdaw2lj3s8r5qyc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47e6hrch8yhtetkesx0docyhvxisdaw2lj3s8r5qyc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -75,9 +75,5 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/busenuryildiz/busenuryildiz/output/snake.svg" alt="Snake animation" />
 
 ###
