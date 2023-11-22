@@ -8,11 +8,14 @@
 
 <h1 align="center">Hey there 👾</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=busenuryildiz&theme=calm&hide_border=true&include_all_commits=false&count_private=false)  <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=busenuryildiz&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=busenuryildiz&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=busenuryildiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=busenuryildiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=busenuryildiz&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 <h2 align="left">I code with...</h2>
 
 ###
@@ -48,17 +51,17 @@
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="35" alt="illustrator logo"  />
 </div>
 
-
-
-
-
+##
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=busenuryildiz&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=busenuryildiz&limit=5&theme=bear&combine_all_yearly_contributions=true)
 
 ###
 
+[![](https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5)](https://visitcount.itsvg.in)
+
+##
 <h4 align="left">Contact me...</h4>
 
 ###
@@ -77,3 +80,4 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
   </a>
 </div>
+
