@@ -52,11 +52,11 @@
 </div>
 
 ##
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=busenuryildiz&limit=5&theme=bear&combine_all_yearly_contributions=true" height="300" alt="stats graph"  />
   </div>
-
+-->
 ###
 
 [![](https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5)](https://visitcount.itsvg.in)
