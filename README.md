@@ -11,8 +11,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=busenuryildiz&theme=bear&show_icons=true&hide_border=false&count_private=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=busenuryildiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=busenuryildiz&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busenuryildiz&theme=bear&show_icons=true&hide_border=false&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busenuryildiz&theme=bear&hide_border=false" height="200" alt="streak graph"  />
 </div>
 
 ###
