@@ -30,9 +30,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=busenuryildiz&theme=bear&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busenuryildiz&theme=bear&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busenuryildiz&theme=bear&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=busenuryildiz&theme=bear&show_icons=true&hide_border=false&count_private=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busenuryildiz&theme=bear&show_icons=true&hide_border=false&layout=compact" height="170" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busenuryildiz&theme=bear&hide_border=false" height="170" alt="streak graph"  />
 </div>
 
 ###
