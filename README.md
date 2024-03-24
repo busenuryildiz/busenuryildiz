@@ -1,6 +1,6 @@
 
   <h1 align="left">Hey there 👾</h1>
-  <img align="right" height="300" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47e6hrch8yhtetkesx0docyhvxisdaw2lj3s8r5qyc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img align="right" height="250" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47e6hrch8yhtetkesx0docyhvxisdaw2lj3s8r5qyc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
   <br>
   <p align="left">Passionate newcomer in software, driven by learning and innovation. 💻✨</p>
 <br>
@@ -8,6 +8,7 @@
 <h3 align="left">Contact me...</h3>
 
 ##
+
 <div align="left">
   <a href="mailto:busenurryildiz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
@@ -93,7 +94,8 @@
 
 
 ##
-
-[![](https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5)](https://visitcount.itsvg.in)
+<div align="center" href="https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5" >
+    <img src="https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5" alt="Visit Count" />
+  </div>
 
 ###
