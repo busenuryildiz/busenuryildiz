@@ -2,12 +2,11 @@
   <h1 align="left">Hey there 👾</h1>
   <img align="right" height="250" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47e6hrch8yhtetkesx0docyhvxisdaw2lj3s8r5qyc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
   <br>
-  <p align="left">Passionate newcomer in software, driven by learning and innovation. 💻✨</p>
+  <p align="left">Passionate in software, driven by learning and innovation. 💻✨</p>
 <br>
 
 <h3 align="left">Contact me...</h3>
-
-##
+  <hr>
 
 <div align="left">
   <a href="mailto:busenurryildiz@gmail.com" target="_blank">
@@ -93,7 +92,8 @@
 
 
 
-##
+  <hr>
+
 <div align="center" href="https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5" >
     <img src="https://visitcount.itsvg.in/api?id=busenuryildiz&icon=6&color=5" alt="Visit Count" />
   </div>
